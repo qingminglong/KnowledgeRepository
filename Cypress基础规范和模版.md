@@ -1,3 +1,4 @@
+Cypress基础规范和模版如下：
 1、组件事件监听的模拟的模版
 cy.mount(XxxComponent, {
   props: {
